@@ -334,5 +334,4 @@ This project demonstrates:
 
 
 For questions or responsible disclosure of security issues:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/shadowgun-bot/issues)
 
